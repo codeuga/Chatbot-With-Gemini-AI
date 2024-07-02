@@ -1,16 +1,5 @@
-# uga_ai
+# UGA AI
 
-A new Flutter project.
+![UGA AI](https://github.com/codeuga/Chatbot-With-Gemini-AI/assets/155093213/fa2a0e86-87c3-41a7-a2b0-70d9fc8110d3)
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
